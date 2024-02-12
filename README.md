@@ -19,10 +19,9 @@ Idiomas.
 </br>
 Y alguna más...
 <br>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left-center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode" style="width: 10px; height: 15px"/>
   </a>
 </p>
 <br>

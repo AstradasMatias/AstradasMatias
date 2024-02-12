@@ -21,7 +21,7 @@ Y alguna más...
 <br>
 <p align="left-center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode" style="width: 10px; height: 15px"/>
+    <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode" style="width: 50px; height: 65px"/>
   </a>
 </p>
 <br>

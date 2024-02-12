@@ -19,7 +19,7 @@ Idiomas.
 Y alguna más...
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Astradas Matias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/matias-astradas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/matias-astradas)
 <!--
 **AstradasMatias/AstradasMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

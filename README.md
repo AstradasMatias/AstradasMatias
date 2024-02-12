@@ -18,11 +18,9 @@ Idiomas.
 
 </br>
 Y alguna más...
-<p align="left-center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode" style="width: 180px; height: 200px"/>
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode" style="width: 180px; height: 200px"/>
+</a>
 <br>
 ## Encuéntrame en:
 [LinkedIn]

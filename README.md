@@ -20,7 +20,7 @@ Idiomas.
 Y alguna más...
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left-center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=qt,html,css,git,vscode"/>
   </a>

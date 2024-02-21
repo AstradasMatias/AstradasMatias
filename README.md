@@ -7,10 +7,6 @@ Comunicación efectiva: Mi enfoque es escuchar y analizar antes de expresar mis 
 Toma de decisiones: Evaluar situaciones y tomar decisiones en cada proyecto realizado.
 Trabajo en equipo: Disfruto colaborando con otros para lograr objetivos comunes.
 
-- ⚡ Intereses personales:
-Fútbol.
-Música y Piano.
-Idiomas.
 
 ## Tecnologías:
 <p align="left-center">
